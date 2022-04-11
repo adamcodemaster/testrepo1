@@ -1,2 +1,5 @@
 pierwszy tekst, test do repozytorium
 
+
+
+zmiana, pierwszy tekst zostal poprawiony, dodano drugi.
